@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Yang-Mills Mass Gap on S³: Computational Verification"
+authors:
+  - family-names: "Pichardo"
+    given-names: "L. F."
+    orcid: "https://orcid.org/0009-0001-6372-0498"
+version: "1.0.0"
+date-released: "2026-03-21"
+url: "https://github.com/Pichardescu/yang-mills-s3-computations"
+doi: "10.5281/zenodo.19145820"
+license: MIT
+type: software
+keywords:
+  - yang-mills
+  - mass-gap
+  - spectral-geometry
+  - quantum-field-theory
+  - S3
+  - compact-topology
+abstract: >-
+  Computational framework for verifying the Yang-Mills mass gap
+  on S³×ℝ (3-sphere cross real line). Implements Hodge theory,
+  Kato-Rellich perturbation bounds, Bakry-Émery curvature analysis,
+  lattice Monte Carlo on the 600-cell discretization, and
+  renormalization group estimates. Accompanies the paper
+  "Mass Gap for Yang-Mills Theory on S³×ℝ".
