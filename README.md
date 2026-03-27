@@ -382,6 +382,12 @@ For the accompanying paper (submitted to CMP, pending review):
 
 ---
 
+## Contact
+
+For questions or collaboration: [yang-mills@kromati.co](mailto:yang-mills@kromati.co)
+
+---
+
 ## License
 
 [MIT](LICENSE)
